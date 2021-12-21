@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 30: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation.
+    e "end"
+    ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Tue Dec 21 20:26:18 2021
