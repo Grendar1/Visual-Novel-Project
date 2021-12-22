@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 30: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation.
-    e "end"
-    ^
+File "game/script.rpy", line 25: end of line expected.
+    scene bg_sidewalk_bloody with slowly fade
+                                         ^
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Tue Dec 21 20:26:18 2021
+Wed Dec 22 19:48:37 2021
