@@ -38,6 +38,19 @@ label start:
     her hand grabbed my forearm, I could hear a very faint voice."
     show bg_black_screen
     "Unknown Girl" "No..."
-    "Unknown Girl" "Don't... call..."
+    "Unknown Girl" "Don't call..."
     show bg_backalley_rainy
     "As soon as possible I gave her some water to drink by opening her mouth gently."
+    y "B..but why? You get wounded?"
+    "There was no answer from her still I said to her if she was hungry, finally, she nodded her little head."
+    "At school I planned not to eat my lunch, but because of the boredom of waiting outside of examination, I ate it."
+    "Damn my bad luck is hitting at the wrong time again. Just how bad can it be?"
+    "I told the girl that I'll find some food to eat and not to move even one inch. But when I came back, she was nowhere to be found."
+    "I question myself if I was hallucinating because I did'nt sleep last night due to too much item farming."
+    "I look back at the drops of blood on the sidewalk, but they vanished, the rain washed them away."
+    scene bg_backalley_rainy with dissolve
+    scene bg_living-room
+    "I arrive home late, tired, all my body including my backpack was wet. I pulled out everthing from my backpack and prepared to take a bath."
+    "I let my clothes dry on the dryind racket and head off to the bathroom. A few minutes passes by and I let my mind wash away everything that
+    happened today."
+    "As i pull out the drain from the bathtub, I take my pajamas and head off to bed."
