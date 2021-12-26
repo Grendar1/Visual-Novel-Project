@@ -1,6 +1,6 @@
 define y= Character("Yuuto")
 define a= Character("Ayumi")
-
+define u= Character("Unknown girl")
 label start:
 
     scene bg_moon
@@ -82,3 +82,33 @@ label start:
     "Thinking it was another spam text or accidental texting, I ignore it. The next minute I receive a text message from that
     unknown number, again."
     "'Meet me. Yuuto Makoto' I got a chill down my spine"
+    "Diciding that my lfe was boring anyway, I entered the GPS Coordinates, the location was..wait! in front of my house??.
+    I got really scared."
+    "Taking my poor cutter again unsuitable for close quarter combat, I prepare myself, take a deep breath and open the door. As I open the door..."
+    scene bg_front_door
+    "The first thing I could see was a girl of the same age as me, holding a cellphone on her right hand with a smile on her face. she had straight black hair,
+    blue eyes, solf pink lips. She wore..."
+    "The girl looked into my eyes and gently opening her mouth preparing to say something."
+    "Unknown girl" "Thank you for saving me!"
+    y "Wh..whatt?"
+    "Unknown girl" "Thank you for saving me the other day!"
+    y "What are you talking about? Have we met before?"
+    "Unknown girl" "You are the one who discovered me behind that big pile of trash, you remember it, right? Right?Right?"
+    y "Uh..."
+    "Unknown girl" "You took off your own shirt and cut it to make bandages to help me,right?"
+    "Now as I think about it, I really forgot about happened yesterday, I thought I was hallucinatingfor not sleeping like and actual human even
+    if i got home and the ev-"
+    "Unknown girl" "Heyyy! Are you ok??"
+    "I woke up from my daydream. I gently touched her face to see if she was real and my senses would not lie to me."
+    "I started to poke her solf cheeks. The girl took a few steps back and whispered."
+    "Unknown girl" "Perv"
+    y "Sorry, Sorry..I just wanted to see if you were real."
+    "Unknown girl" "Tchh, silly. Of course, I'm real. Everything is real if I wasn't real, you would be outside right now."
+    "I guess she's right but stil.."
+    y "Did the event from events from yesterday really happen? What happened to you? Who are you? How did you get wounded?"
+    u "Ne-Ne, can I enter your house?"
+    "I lowered the cutter and put it in safety mode of my pocket, I felt hesitate since I don't know who is she but in the end i allowed her."
+    "After she went in, she headed straight to my kitchen, like she was already knowing the route."
+    scene bg_kitchen
+    "She sat on a chair in the kitchen as I sat in front of her."
+    "She started to take out a piece of glowing rock out of her bag and putted it on the table"
